@@ -1,0 +1,22 @@
+@subtask samples
+manual 1.in
+
+@subtask water
+gen 3 this 
+gen 3 is
+gen 3 too
+gen 3 water
+
+@subtask int
+@include water
+gen 1000000000 remember
+gen 1000000000 to
+gen 1000000000 use
+gen 1000000000 long long
+
+@subtask full
+@include samples
+@include int
+gen 2000000000 ovo
+gen 2000000000 owo
+gen 2000000000 qwq

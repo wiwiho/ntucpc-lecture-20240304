@@ -1,0 +1,17 @@
+{
+    "global_validators": ["validator.cpp"],
+    "subtasks": {
+        "samples": {
+            "index": 0,
+            "score": 0,
+            "validators": [],
+            "text": "範例測資"
+        },
+        "full": {
+            "index": 1,
+            "score": 100,
+            "validators": [],
+            "text": "無額外限制"
+        }
+    }
+}

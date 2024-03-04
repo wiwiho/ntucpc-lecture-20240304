@@ -1,0 +1,29 @@
+{
+    "global_validators": ["validator.cpp 2000000000"],
+    "subtasks": {
+        "samples": {
+            "index": 0,
+            "score": 0,
+            "validators": [],
+            "text": "範例測資"
+        },
+        "water": {
+            "index": 1,
+            "score": 1,
+            "validators": ["validator.cpp 3"],
+            "text": "$A,B \\leq 3$"
+        },
+        "int": {
+            "index": 2,
+            "score": 39,
+            "validators": ["validator.cpp 1000000000"],
+            "text": "$A,B \\leq 10^9$"
+        },
+        "full": {
+            "index": 3,
+            "score": 60,
+            "validators": [],
+            "text": "無額外限制"
+        }
+    }
+}

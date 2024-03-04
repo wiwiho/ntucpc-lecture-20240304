@@ -1,0 +1,33 @@
+{
+    "global_validators": ["validator.cpp 100000 2500000"],
+    "subtasks": {
+        "samples": {
+            "index": 0,
+            "score": 0,
+            "validators": []
+        },
+        "s1": {
+            "index": 1,
+            "score": 23,
+            "validators": ["validator.cpp 500 700000"],
+            "text": "$n \\leq 500, m \\leq 7 \\times 10^5$"
+        },
+        "s2": {
+            "index": 2,
+            "score": 32,
+            "validators": ["validator.cpp 2000 2000"],
+            "text": "$n \\leq 2000, m \\leq 2000$"
+        },
+        "s3": {
+            "index": 3,
+            "score": 26,
+            "validators": ["validator.cpp 15000 1000000"],
+            "text": "$n \\leq 1.5 \\times 10^4, m \\leq 10^6$"
+        },
+        "full": {
+            "index": 4,
+            "score": 19,
+            "validators": []
+        }
+    }
+}

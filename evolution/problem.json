@@ -1,0 +1,12 @@
+{
+    "name": "evolution",
+    "code": "evolution",
+    "title": "物種演化",
+    "type": "Batch",
+    "has_grader": false,
+    "java_enabled": false,
+    "python_enabled": false,
+    "time_limit": 3.0,
+    "memory_limit": 256,
+    "description": "Task description"
+}

@@ -1,0 +1,34 @@
+# gen n seg
+
+@subtask samples
+manual 1.in
+manual 2.in
+manual 3.in
+
+@subtask full
+@include samples
+gen 1 1 0
+gen 2 1 0
+gen 2 2 0
+gen 10 1 -3
+gen 10 2 -3
+gen 10 3 -3
+gen 10 4 -3
+gen 10 5 -3
+gen 10 6 -3
+gen 10 7 -3
+gen 10 8 -3
+gen 10 9 -3
+gen 10 10 -3
+gen 100000 1 -3
+gen 100000 10 -3
+gen 100000 100 -3
+gen 100000 1000 -3
+gen 100000 10000 -3
+gen 100000 10000 -10000000
+gen 100000 100000 -3
+gen 95324 234 -3
+gen 68456 4863 -3
+gen 74345 64385 -3
+gen 75474 446 -3
+gen 32524 10 -3

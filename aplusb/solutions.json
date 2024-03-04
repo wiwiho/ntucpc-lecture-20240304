@@ -1,0 +1,4 @@
+{
+    "correct1.cpp": { "verdict": "model_solution" },
+    "wa.cpp": { "verdict": "incorrect", "except": {"water": "correct", "int": "correct"} }
+}

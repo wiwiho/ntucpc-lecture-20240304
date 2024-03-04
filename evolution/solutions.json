@@ -1,0 +1,4 @@
+{
+    "sol.cpp": { "verdict": "model_solution" },
+    "tle.cpp": { "verdict": "time_limit", "except": {"samples": "correct", "s1": "correct", "s2": "correct"} }
+}

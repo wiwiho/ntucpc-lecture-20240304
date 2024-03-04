@@ -1,0 +1,13 @@
+{
+    "name": "polarbear2",
+    "code": "polarbear2",
+    "title": "北極熊大遷徙研究",
+    "type": "Batch",
+    "has_grader": false,
+    "java_enabled": false,
+    "python_enabled": false,
+    "has_checker": true,
+    "time_limit": 1.0,
+    "memory_limit": 256,
+    "description": "Task description"
+}
